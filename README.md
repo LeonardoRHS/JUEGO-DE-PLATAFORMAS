@@ -346,7 +346,9 @@ func _on_body_entered(body: Node2D):
 
 # videos
 
+https://youtu.be/RsnQfgRrLv8
 
+https://youtu.be/Ay3y7s73o68
 
 ## Comentarios finales sobre la experiencia del desarrollo
 
