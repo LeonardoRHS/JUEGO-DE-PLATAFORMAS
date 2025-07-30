@@ -13,3 +13,51 @@ el juego esta intencionado a tener un nivel de dificultad normal gracias a los d
  plataformas variadas(fija, oscilatoria, caida, fragil, salto)
 
  Efectos de sonido para salto, recolección y muerte.
+
+## 🧩 Assets utilizados
+
+fondo de nivel 1
+
+[fondo.cielo (1).zip](https://github.com/user-attachments/files/21518238/fondo.cielo.1.zip)
+
+fondo de nivel 2
+
+[infierno.zip](https://github.com/user-attachments/files/21518225/infierno.zip)
+
+personaje
+
+[personaje (1).zip](https://github.com/user-attachments/files/21518242/personaje.1.zip)
+
+plataformas
+
+[plataforma (1).zip](https://github.com/user-attachments/files/21518244/plataforma.1.zip)
+
+
+puerta
+
+[puerta de fuego (1).zip](https://github.com/user-attachments/files/21518253/puerta.de.fuego.1.zip)
+
+
+anillos
+
+[anillo.zip](https://github.com/user-attachments/files/21518251/anillo.zip)
+
+
+🎵 Sonidos:
+
+sonido de muerte
+
+[sonidodemuerte1.zip](https://github.com/user-attachments/files/21518259/sonidodemuerte1.zip)
+
+sonido de anillo
+
+[sonidodeanillo.zip](https://github.com/user-attachments/files/21518256/sonidodeanillo.zip)
+
+
+sonido de salto
+
+[sonido de salto.zip](https://github.com/user-attachments/files/21518266/sonido.de.salto.zip)
+
+
+
+
