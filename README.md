@@ -343,3 +343,11 @@ func _on_body_entered(body: Node2D):
 
 ...
 ```
+
+# videos
+
+
+
+## Comentarios finales sobre la experiencia del desarrollo
+
+Fue una experiencia muy divertida aunque tambien aveces muy frustrante porque batalle a la hora de hacer que la puerta se desbloqueara con los 5 anillos y tambien a la hora de que el marcador se actualizara pero me dejo muchas cosas que aprender y quitando todo eso fue una experiencia divertida
